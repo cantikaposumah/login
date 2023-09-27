@@ -1,0 +1,95 @@
+/* Style for h1 */
+h1 {
+    font-size: 28px;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style for h2 */
+h2 {
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+}
+
+/* Style for body */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for container */
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for table */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* Style for tr */
+tr {
+    margin-bottom: 10px;
+}
+
+/* Style for p */
+p {
+    text-align: center;
+}
+
+/* Style for login form */
+.login-form {
+    text-align: center;
+}
+
+/* Style for label */
+label {
+    font-weight: bold;
+    display: inline-block;
+    width: 150px;
+}
+
+/* Style for input */
+input[type="text"],
+input[type="password"],
+input[type="checkbox"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style for button */
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* Hover effect for button */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Style for footer */
+.footer {
+    font-size: 12px;
+    color: #666;
+    text-align: center;
+    margin-top: 20px;
+}
